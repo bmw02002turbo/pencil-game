@@ -2,7 +2,7 @@
 # pencil-game
 A Python Terminal Game based off the pencil game "One Left", which I developed in 8th Grade.
 
-I was first introduced to "One Left" in a seminar in 8th Grade. The instructor offered to play volunteers, and proceeded to win each game. While these games were occuring, I attempted to reverse engineer the game, and to my delight, discovered the winning strategy. Unfortunately, I wasn't called on and never had a chance to win. Instead, in coming home, I coded this Python bot. It's rather complex and messy (as 8th grade me was) but works very well.
+I was first introduced to "One Left" in a seminar in 8th Grade. The instructor offered to play volunteers, and proceeded to win each game. While these games were occuring, I attempted to reverse engineer the game, and to my delight, discovered the winning strategy. Unfortunately, I wasn't called on and never had a chance to win. Instead, in coming home, I coded this Python bot. It's rather complex and messy (as 8th grade me was) but gets the job done!
 
 # Rules
 
