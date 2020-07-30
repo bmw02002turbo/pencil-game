@@ -28,9 +28,7 @@ For example, if the min = m and max = n, every two turns (one player and one bot
 | n - 1 | m + 1 | m + n
 | n | m | m + n
 
-Applying modulo m + n
-
-<Insert gif>
+Applying modulo m + n, we are able to guarantee victory as long as the current number of pencils is equal to 1 mod m + n.
 
 # Demo
 
