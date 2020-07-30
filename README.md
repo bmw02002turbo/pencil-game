@@ -33,3 +33,5 @@ Applying modulo m + n
 <Insert gif>
 
 # Demo
+
+![Demo GIF](https://github.com/bmw02002turbo/pencil-game/blob/master/Pencil%20Game.gif)
